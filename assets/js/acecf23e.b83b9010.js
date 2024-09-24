@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcudasaxs_doc=self.webpackChunkcudasaxs_doc||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/cudasaxs-doc/blog","blogTitle":"Blog","authorsListPath":"/cudasaxs-doc/blog/authors"}')}}]);
